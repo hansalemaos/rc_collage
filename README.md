@@ -15,8 +15,17 @@ is no install screen. (You may need administrator rights to install the app.) Af
 via the Windows context menu (clicking on folders/images)
 
 
+## How to compile the source code 
+
+1) Create an env (I use Anaconda)
+2) Install the requirements https://github.com/hansalemaos/rc_collage/raw/main/requirements.txt
+3) Download the source code https://github.com/hansalemaos/rc_collage/raw/main/cv2collage.py
+4) Compile it using this script https://github.com/hansalemaos/rc_collage/raw/main/cv2collagecm.py
+
+
+
 ## False Alarm
 
-Unfortunately, a few Anti-Virus report the exe file as maleware (false positive).
+Unfortunately, a few Anti-Virus report the EXE file as malware (false positive).
 Maybe because the file copies itself to the ProgramData folder, and changes entries in the Windows' Reg
 ![](https://github.com/hansalemaos/rc_collage/blob/main/falsepositives.png?raw=true)
