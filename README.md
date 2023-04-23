@@ -29,3 +29,14 @@ via the Windows context menu (clicking on folders/images)
 Unfortunately, a few Anti-Virus report the EXE file as malware (false positive).
 Maybe because the file copies itself to the ProgramData folder, and changes entries in the Windows' Reg
 ![](https://github.com/hansalemaos/rc_collage/blob/main/falsepositives.png?raw=true)
+
+
+## Uninstall 
+
+Execute "C:\ProgramData\RCTools\cv2collage_uninstall.cmd"
+Delete C:\Users\hansc\AppData\Local\loggax3\1.0.0.1 and C:\Users\hansc\AppData\Local\cv2collage\1.0.0.1
+
+
+## Create your own Windows Context Menu tools 
+
+https://github.com/hansalemaos/shellextools
