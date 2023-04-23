@@ -1,5 +1,10 @@
 # rc_collage
-Right click on files/folders (context menu) and create a nice collage 
+
+## What is it? 
+
+[![](https://i.ytimg.com/vi/c9OouCauJ1Y/oar2.jpg?sqp=-oaymwEaCJUDENAFSFXyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBa8cG36u-xxiLEfehP5JcSw_a89g)](https://www.youtube.com/shorts/c9OouCauJ1Y)
+
+## How to use the precompiled version
 
 If you want to use it without compiling anything, download the 3 zip files and extract them. 
 Click on cv2collage.exe - the app will copy itself to "C:\ProgramData\RCTools\cv2collage.exe" and create an uninstaller
@@ -7,12 +12,7 @@ Click on cv2collage.exe - the app will copy itself to "C:\ProgramData\RCTools\cv
 is no install screen. (You may need administrator rights to install the app.) After the app has been installed, you can access it 
 via the Windows context menu (clicking on folders/images)
 
-
-
-This is how it works: 
-
-[![](https://i.ytimg.com/vi/c9OouCauJ1Y/oar2.jpg?sqp=-oaymwEaCJUDENAFSFXyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBa8cG36u-xxiLEfehP5JcSw_a89g)](https://www.youtube.com/shorts/c9OouCauJ1Y)
-
+## False Alarm
 
 Unfortunately, a few Anti-Virus report the exe file as maleware (false positive).
 Maybe because the file copies itself to the ProgramData folder, and changes entries in the Windows' Reg
