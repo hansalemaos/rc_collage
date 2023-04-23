@@ -4,6 +4,8 @@
 
 [![](https://i.ytimg.com/vi/c9OouCauJ1Y/oar2.jpg?sqp=-oaymwEaCJUDENAFSFXyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLBa8cG36u-xxiLEfehP5JcSw_a89g)](https://www.youtube.com/shorts/c9OouCauJ1Y)
 
+
+
 ## How to use the precompiled version
 
 If you want to use it without compiling anything, download the 3 zip files and extract them. 
@@ -11,6 +13,7 @@ Click on cv2collage.exe - the app will copy itself to "C:\ProgramData\RCTools\cv
 "C:\ProgramData\RCTools\cv2collage_uninstall.cmd" - The whole process takes about 30 seconds, you won't see anything, there 
 is no install screen. (You may need administrator rights to install the app.) After the app has been installed, you can access it 
 via the Windows context menu (clicking on folders/images)
+
 
 ## False Alarm
 
